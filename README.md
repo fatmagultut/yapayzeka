@@ -1,0 +1,2 @@
+# yapayzeka
+YAPAY ZEKA
